@@ -20,7 +20,7 @@
     <br>
     <br>
 
-    <h2 style="color: #0057B8">TehInt</h2>
+    <h2 style="color: #0057B8">TehInt.Sports</h2>
 
     <form class="form-horizontal" role="form "method="POST" action="{{url('login')}}">
         {!! csrf_field() !!}

@@ -9,7 +9,6 @@
     <script type="text/javascript" src="{{URL::asset('/js/app.js')}}"></script>
     <link rel="stylesheet" href="{{URL::asset('css/datepicker.css')}}">
     <script type="text/javascript" src="{{URL::asset('/js/bootstrap-datepicker.js')}}"></script>
-
 </head>
 
 <body>

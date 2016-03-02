@@ -12,9 +12,11 @@
 */
 
 Route::get('/', function () {
+    return view('layout.firstpage');
+});
+Route::get('/log', function () {
     return view('auth.login');
 });
-
 /*
 |--------------------------------------------------------------------------
 | Application Routes
