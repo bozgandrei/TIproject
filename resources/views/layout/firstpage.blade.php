@@ -21,8 +21,8 @@
     <br>
 
     <div class="container">
-        <a href="log">
-        <span style="float: right"> <h3>Football</h3>
+
+        <span style="float: right"> <a href="log"><h3>Football</h3>
          <img src="https://i.ytimg.com/vi/6DZ91Rgd6Ak/maxresdefault.jpg" class="img-responsive" alt="Cinque Terre" width="304" height="236"></span></a>
         <a href="log">
          <h3>Cycling</h3>
