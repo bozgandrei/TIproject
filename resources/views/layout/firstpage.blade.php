@@ -23,10 +23,12 @@
     <div class="container">
 
         <span style="float: right"> <a href="log"><h3>Football</h3>
-         <img src="https://i.ytimg.com/vi/6DZ91Rgd6Ak/maxresdefault.jpg" class="img-responsive" alt="Cinque Terre" width="304" height="236"></span></a>
+                <img src="https://i.ytimg.com/vi/6DZ91Rgd6Ak/maxresdefault.jpg" class="img-responsive"
+                     alt="Cinque Terre" width="304" height="236"></span></a>
         <a href="log">
-         <h3>Cycling</h3>
-        <img src="https://wallpaperscraft.com/image/cycling_race_athlete_helmet_96884_1920x1080.jpg" class="img-responsive" alt="Cinque Terre2" width="304" height="236"></a>
+            <h3>Cycling</h3>
+            <img src="https://wallpaperscraft.com/image/cycling_race_athlete_helmet_96884_1920x1080.jpg"
+                 class="img-responsive" alt="Cinque Terre2" width="304" height="236"></a>
     </div>
 
 
