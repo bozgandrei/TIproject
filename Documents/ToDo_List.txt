@@ -4,4 +4,4 @@ To Do List :
 
 - "hallelujah, hallelujah!!!!!" IT WORKS !!! Dupa lungi chinuri, si incercari....si setare manuala a unui SSH
 - create/migrare baza de date;
-- structura bagina
+- structura pagina
