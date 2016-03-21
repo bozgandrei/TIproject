@@ -1,3 +1,7 @@
-- Dupa lungi chinuri, si incercari....sper ca pot da PUSH acuma pe ghithub(#@$%#%%^)
+To Do List :
+
+**21.03.2016**
+
+- "hallelujah, hallelujah!!!!!" IT WORKS !!! Dupa lungi chinuri, si incercari....si setare manuala a unui SSH
 - create/migrare baza de date;
 - structura bagina
